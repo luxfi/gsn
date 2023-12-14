@@ -1,6 +1,6 @@
-# GSN Relayer server
+# Lux GSN Relayer server
 
-_Forked from tabookey-gasless, for GSNv1_.
+_Forked from the timless tabookey-gasless, for GSNv1_.
 
 ## Build
 
