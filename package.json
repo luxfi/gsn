@@ -1,10 +1,10 @@
 {
+  "name": "@luxdefi/gsn",
   "version": "0.4.1",
   "description": "GSN relayer server",
-  "name": "gsn-relayer",
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/OpenZeppelin/gsn-relayer",
+    "url": "https://github.com/luxdefi/gsn",
     "type": "git"
   },
   "scripts": {
